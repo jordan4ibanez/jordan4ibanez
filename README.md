@@ -14,14 +14,17 @@ Let's see here...
 
 I know a few programming languages
 
-1. Java
-2. D
-3. C++
-4. Rust
-5. Nim
-6. Lua
-7. Dart
-8. Go
+1. Common Lisp
+2. Elisp
+3. D
+4. C++
+5. Rust
+6. Nim
+7. Lua
+8. Dart
+9. Java
+10. Kotlin
+11. Go
 
 This had a bunch of ideas on how to get started writing this. One of them was  "currently learning", but I think I'm always learning. Learning is very important!
 
