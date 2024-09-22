@@ -1,10 +1,18 @@
-# Hello there!
+-----
 
-I'm Jordan.
+### Welcome to my profile:
+
+-----
+
+Hello there. I'm Jordan. I have been programming for a very long time.
+
+My only hope is that my work has given you knowledge and helped you along the way.
 
 -----
 
 ### Preamble:
+
+-----
 
 I primarily program in Fortran now. Along with C and LuaJIT. It's a comfy bundle.
 
@@ -15,6 +23,8 @@ If you like what I do, and would like to support me: [My Patreon](https://www.pa
 -----
 
 ### My Fortran projects:
+
+-----
 
 Very alpha stage modern Fortran tutorial: https://github.com/jordan4ibanez/fortran_tutorial
 
@@ -33,3 +43,5 @@ Extremely simple ``c_int64_t`` UUID generator: https://github.com/jordan4ibanez/
 -----
 
 ##### Thank you for checking out my profile.
+
+-----
