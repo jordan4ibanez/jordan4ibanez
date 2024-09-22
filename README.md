@@ -22,7 +22,7 @@ Floating point noise library for Fortran: https://github.com/Auburn/FastNoiseLit
 
 Hyper-generic hashmap for Fortran: https://github.com/jordan4ibanez/hashmap_f90
 
-An extremely fast vector for Fortran: https://github.com/jordan4ibanez/fortran_vector
+Extremely fast vector for Fortran: https://github.com/jordan4ibanez/fortran_vector
 
-An extremely simple ``c_int64_t`` UUID generator: https://github.com/jordan4ibanez/uuid_now
+Extremely simple ``c_int64_t`` UUID generator: https://github.com/jordan4ibanez/uuid_now
 
