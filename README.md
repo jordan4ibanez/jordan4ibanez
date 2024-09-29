@@ -36,6 +36,8 @@ Threading library for Fortran: https://github.com/jordan4ibanez/forthread
 
 Floating point noise library for Fortran: https://github.com/Auburn/FastNoiseLite/tree/master/Fortran
 
+Dense linked fifo queue for Fortran: https://github.com/jordan4ibanez/for_fifo_queue
+
 Hyper-generic hashmap for Fortran: https://github.com/jordan4ibanez/hashmap_f90
 
 Extremely fast vector for Fortran: https://github.com/jordan4ibanez/fortran_vector
