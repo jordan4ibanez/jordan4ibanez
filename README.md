@@ -38,6 +38,8 @@ Threading library for Fortran: https://github.com/jordan4ibanez/forthread
 
 ANSI Terminal color standardization: https://github.com/jordan4ibanez/forterm
 
+String library for Fortran: https://github.com/jordan4ibanez/string_f90
+
 Floating point noise library for Fortran: https://github.com/Auburn/FastNoiseLite/tree/master/Fortran
 
 Dense linked fifo queue for Fortran: https://github.com/jordan4ibanez/for_fifo_queue
