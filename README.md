@@ -42,6 +42,8 @@ String library for Fortran: https://github.com/jordan4ibanez/string_f90
 
 A very simple array library for Fortran: https://github.com/jordan4ibanez/forray
 
+Directory reader for Fortran: https://github.com/jordan4ibanez/files_f90
+
 Floating point noise library for Fortran: https://github.com/Auburn/FastNoiseLite/tree/master/Fortran
 
 Dense linked fifo queue for Fortran: https://github.com/jordan4ibanez/for_fifo_queue
