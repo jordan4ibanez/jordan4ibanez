@@ -44,6 +44,8 @@ ANSI Terminal color standardization: https://github.com/jordan4ibanez/forterm
 
 String library for Fortran: https://github.com/jordan4ibanez/string_f90
 
+A barebones OpenGL loader/library for Fortran: https://github.com/jordan4ibanez/forglad
+
 A very simple array library for Fortran: https://github.com/jordan4ibanez/forray
 
 Directory reader for Fortran: https://github.com/jordan4ibanez/files_f90
