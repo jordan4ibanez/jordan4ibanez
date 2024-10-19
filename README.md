@@ -36,6 +36,8 @@ Voxel game engine/game written in Fortran/LuaJIT/C: https://github.com/jordan4ib
 
 Threading library for Fortran: https://github.com/jordan4ibanez/forthread
 
+A very simple library for missing gfortran constants: https://github.com/jordan4ibanez/constants_f90
+
 ANSI Terminal color standardization: https://github.com/jordan4ibanez/forterm
 
 String library for Fortran: https://github.com/jordan4ibanez/string_f90
