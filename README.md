@@ -36,6 +36,8 @@ Voxel game engine/game written in Fortran/LuaJIT/C: https://github.com/jordan4ib
 
 Threading library for Fortran: https://github.com/jordan4ibanez/forthread
 
+ANSI Terminal color standardization: https://github.com/jordan4ibanez/forterm
+
 Floating point noise library for Fortran: https://github.com/Auburn/FastNoiseLite/tree/master/Fortran
 
 Dense linked fifo queue for Fortran: https://github.com/jordan4ibanez/for_fifo_queue
