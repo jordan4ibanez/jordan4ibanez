@@ -12,6 +12,14 @@ My only hope is that my work has given you knowledge and helped you along the wa
 
 -----
 
+### Discord:
+
+-----
+
+My discord is here: https://discord.gg/D95q7BHUE4
+
+-----
+
 ### Preamble:
 
 -----
