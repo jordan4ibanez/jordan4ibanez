@@ -32,6 +32,8 @@ All of my Fortran libraries are dogfooded. They are written for myself, used by 
 
 If you like what I do, and would like to support me: [My Patreon](https://www.patreon.com/jordan4ibanez)
 
+If patreon isn't what you'd like, suggest things to me. Patreon is all I really know at the moment.
+
 -----
 
 ### My Fortran projects:
