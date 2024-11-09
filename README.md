@@ -48,6 +48,8 @@ Threading library for Fortran: https://github.com/jordan4ibanez/forthread
 
 A very simple library for missing gfortran constants: https://github.com/jordan4ibanez/constants_f90
 
+A simple unoptimized integer set for fortran: https://github.com/jordan4ibanez/integer_set
+
 Fortran GeneraL Math modules: https://github.com/jordan4ibanez/fglm
 
 ANSI Terminal color standardization: https://github.com/jordan4ibanez/forterm
