@@ -20,6 +20,6 @@ My discord is here: https://discord.gg/D95q7BHUE4
 
 -----
 
-Click here for the Fortran section of my profile.
+[Click here for the Fortran section of my profile.](https://github.com/jordan4ibanez/jordan4ibanez/blob/main/fortran.md)
 
 -----
