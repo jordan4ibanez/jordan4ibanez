@@ -26,7 +26,6 @@ My discord is here: https://discord.gg/D95q7BHUE4
 
 # D Cheat Sheet
 
------
 
 ### Things that are evaluated at compile time:
 
