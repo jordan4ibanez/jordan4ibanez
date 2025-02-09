@@ -40,3 +40,33 @@ Initializers for static, module-level, or __gshared variables
 2. A template value argument.
 3. default initializers for member fields.
 4. And that's it. Everything else is runtime.
+
+-----
+
+### C++ style explicit operator bool for type
+
+#### From: Kapendev
+
+-----
+
+```d
+bool opCast(T: bool)() {
+    return isSome;
+}
+```
+
+-----
+
+### Unimplemented Operator
+
+#### From: ShapeshiftingLizard
+
+-----
+
+```d
+bool opCast(T)() const {
+    static if (is(T == bool)) {
+        return count != -1;
+    } else static assert(0, "Not implemented.");
+}
+```
