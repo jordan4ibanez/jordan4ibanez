@@ -50,7 +50,7 @@ Initializers for static, module-level, or __gshared variables
 -----
 
 ```d
-bool opCast(T: bool)() {
+bool opCast(T: bool)() const {
     return isSome;
 }
 ```
