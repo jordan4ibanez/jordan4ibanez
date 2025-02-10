@@ -70,3 +70,22 @@ bool opCast(T)() const {
     } else static assert(0, "Not implemented.");
 }
 ```
+
+-----
+
+### Value template class/struct
+
+#### From: Me :D
+
+-----
+
+```d
+class cool(int MY_COOL_VALUE) {
+    immutable int aCoolValue = MY_COOL_VALUE;
+}
+
+void main() {
+    auto i = new cool!23();
+    writeln(i.aCoolValue);
+}
+```
