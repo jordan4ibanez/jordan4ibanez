@@ -89,3 +89,14 @@ void main() {
     writeln(i.aCoolValue);
 }
 ```
+
+-----
+
+### Run tests in release mode
+
+#### From: 0xEAB
+-----
+
+```
+DFLAGS="-release -unittest" dub test
+```
