@@ -4,11 +4,9 @@
 
 -----
 
-Hello there. I'm Jordan. I have been programming for a very long time.
+Hello there. I'm Jordan.
 
 Is this my job? No. Just a hobby at the moment. Maybe it will be someday. Or, at least I hope it will be.
-
-My only hope is that my work has given you knowledge and helped you along the way.
 
 -----
 
