@@ -8,6 +8,8 @@ Hello there. I'm Jordan.
 
 Is this my job? No. Just a hobby at the moment. Maybe it will be someday. Or, at least I hope it will be.
 
+I do have: https://www.patreon.com/jordan4ibanez
+
 -----
 
 ### Discord:
