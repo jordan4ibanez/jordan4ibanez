@@ -28,18 +28,6 @@ My discord is here: https://discord.gg/D95q7BHUE4
 
 -----
 
-### Initialize an array with a value:
-
-#### From: Me :D
-
------
-
-```d
-const x = (new int[30_000])[] = 1;
-```
-
------
-
 
 ### Things that are evaluated at compile time:
 
@@ -54,6 +42,18 @@ Initializers for static, module-level, or __gshared variables
 2. A template value argument.
 3. default initializers for member fields.
 4. And that's it. Everything else is runtime.
+
+-----
+
+### Initialize an array with a value
+
+#### From: Me :D
+
+-----
+
+```d
+const x = (new int[30_000])[] = 1;
+```
 
 -----
 
