@@ -26,6 +26,20 @@ My discord is here: https://discord.gg/D95q7BHUE4
 
 # D Cheat Sheet
 
+-----
+
+### Initialize an array with a value:
+
+#### From: Me :D
+
+-----
+
+```d
+const x = (new int[30_000])[] = 1;
+```
+
+-----
+
 
 ### Things that are evaluated at compile time:
 
